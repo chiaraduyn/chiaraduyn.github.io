@@ -1,113 +1,104 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Chiara Duyn",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/chiaraduyn.png",
+    "email": "cduyn@hawaii.edu",
+    "phone": "",
+    "website": "https://chiaraduyn.github.io",
+    "summary": "Hello, My name is Chiara Duyn. I am currently pursuing a Bachelor of Arts in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am anticipated to graduate in the fall of 2025.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "chiaraduyn", "url": "http://github.com/chiaraduyn" },
+      { "network": "linkedin", "username": "chiaraduyn", "url": "http://linkedin.com/in/chiara-duyn" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Internet of Things (IoT)" },
+    { "name": "Human-Computer Interaction" },
+    { "name": "Cybersecurity" },
+    { "name": "Audio Programming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Java", "R", "Python", "Flask", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows 10/11", "Git/GitHub/GitKraken", "Linux", "VS Code", "jGRASP", "Anaconda" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Kapiolani Community College",
+      "area": " Information Technology",
+      "studyType": "Associates in Science",
+      "startDate": "Fall 2020",
+      "endDate": "Fall 2022",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa",
+      "area": " Information and Computer Science (expected Fall 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "Fall 2024",
+      "endDate": "Present (expected Fall 2025)",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Servco Inc.",
+      "position": "Cybersecurity Analyst",
+      "website": "https://www.servco.com",
+      "startDate": "06-2022",
+      "endDate": "02-2023",
+      "summary": "Develop and implement IT security improvement efforts using various tools to improve efficiency and reduce risk.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Understand functionality of implemented systems to maximize utilization.",
+        "Work with Functional Business Analysts to review, assess and test new security functionality.",
+        "Assist in organizing/coordinating demonstrations, training, testing, implementation and communication of all approved system changes and the business process.",
+        "Assist in creating ad-hoc reports using the reporting/BI tools and leverage the reports to measure/analyse key performance metrics.",
+        "Partner with internal resources to assist in change management initiatives"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "HHHRC (Hawaii Health and Harm Reduction Center",
+      "website": "https://www.hhhrc.org",
+      "position": "Treasurer of the YLB (Youth Leadership Board)",
+      "startDate": "08-2022",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Oversee the organization's financial affairs",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Attend board meetings",
+        "Calcualte and document spendings",
+        "Plan and exceute events within budget"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "KELA Achievement Grant",
+      "date": "2022,2023",
+      "awarder": "Kapiolani Community College - Math and Sciences Department",
+      "summary": "Awarded to students enrolled in at least 6 Kapi‘olani CC credits, be a classified student with Kapi‘olani CC as their home campus, and have earned an A or B in two Math and Sciences Department courses."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Deans List",
+      "date": "2022-2023",
+      "awarder": "Kapiolani Community College",
+      "summary": "Recognizes students who earn a 3.5 or higher grade point ratio with 15 or more accumulated credits over Fall, Spring, and/or Summer semester(s)"
+    },
+    {
+      "title": "Published Author",
+      "date": "2024",
+      "awarder": "Kapiolani Community College",
+      "summary": "My scientific poster titled Formula Fish was selected to be published the 2024 Pueo o Kū Journal of Science, Technology, Engineering, and Mathematics (STEM)."
     }
   ],
   "references": [
