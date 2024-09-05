@@ -6,7 +6,7 @@
     "email": "cduyn@hawaii.edu",
     "phone": "",
     "website": "https://chiaraduyn.github.io",
-    "summary": "Hello, My name is Chiara Duyn. I am currently pursuing a Bachelor of Arts in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am anticipated to graduate in the fall of 2025.",
+    "summary": "Hi! My name is Chiara Duyn. I am currently pursuing a Bachelor of Arts in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am anticipated to graduate in the fall of 2025.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "chiaraduyn", "url": "http://github.com/chiaraduyn" },
@@ -16,8 +16,8 @@
   "interests": [
     { "name": "Internet of Things (IoT)" },
     { "name": "Human-Computer Interaction" },
-    { "name": "Cybersecurity" },
-    { "name": "Audio Programming" }
+    { "name": "Audio Programming" },
+    { "name": "Cybersecurity" }
   ],
   "skills": [
     {
@@ -33,18 +33,18 @@
     {
       "institution": "Kapiolani Community College",
       "area": " Information Technology",
-      "studyType": "Associates in Science",
-      "startDate": "Fall 2020",
-      "endDate": "Fall 2022",
+      "studyType": "A.S.",
+      "startDate": "2020",
+      "endDate": "2022",
       "courses": [
       ]
     },
     {
       "institution": "University of Hawaii at Manoa",
       "area": " Information and Computer Science (expected Fall 2025)",
-      "studyType": "B.S.",
-      "startDate": "Fall 2024",
-      "endDate": "Present (expected Fall 2025)",
+      "studyType": "B.A.",
+      "startDate": "2023",
+      "endDate": "Present",
       "courses": [
       ]
     }
@@ -54,8 +54,8 @@
       "company": "Servco Inc.",
       "position": "Cybersecurity Analyst",
       "website": "https://www.servco.com",
-      "startDate": "06-2022",
-      "endDate": "02-2023",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "Develop and implement IT security improvement efforts using various tools to improve efficiency and reduce risk.",
       "highlights": [
         "Understand functionality of implemented systems to maximize utilization.",
@@ -68,15 +68,15 @@
   ],
   "volunteer": [
     {
-      "organization": "HHHRC (Hawaii Health and Harm Reduction Center",
+      "organization": "HHHRC",
       "website": "https://www.hhhrc.org",
       "position": "Treasurer of the YLB (Youth Leadership Board)",
-      "startDate": "08-2022",
+      "startDate": "2022",
       "endDate": "Present",
       "summary": "Oversee the organization's financial affairs",
       "highlights": [
-        "Attend board meetings",
-        "Calcualte and document spendings",
+        "Attend and participate in board meetings",
+        "Calculate and document spendings for the organizations records",
         "Plan and exceute events within budget"
       ]
     }
@@ -85,12 +85,12 @@
     {
       "title": "KELA Achievement Grant",
       "date": "2022,2023",
-      "awarder": "Kapiolani Community College - Math and Sciences Department",
+      "awarder": "Kapiolani Community College",
       "summary": "Awarded to students enrolled in at least 6 Kapi‘olani CC credits, be a classified student with Kapi‘olani CC as their home campus, and have earned an A or B in two Math and Sciences Department courses."
     },
     {
       "title": "Deans List",
-      "date": "2022-2023",
+      "date": "2022,2023",
       "awarder": "Kapiolani Community College",
       "summary": "Recognizes students who earn a 3.5 or higher grade point ratio with 15 or more accumulated credits over Fall, Spring, and/or Summer semester(s)"
     },
