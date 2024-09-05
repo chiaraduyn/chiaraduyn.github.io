@@ -22,17 +22,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "R", "Python", "Flask", "React" ]
+      "keywords": [ "C/C++", "Java", "R", "Python", "Flask", "React/React Native" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows 10/11", "Git/GitHub/GitKraken", "Linux", "VS Code", "jGRASP", "Anaconda" ]
+      "keywords": [ "MacOS", "Windows 10/11", "Git", "Linux", "VS Code", "jGRASP", ]
     }
   ],
   "education": [
     {
       "institution": "Kapiolani Community College",
-      "area": " Information Technology",
+      "area": " Information Technology, with Honors",
       "studyType": "A.S.",
       "startDate": "2020",
       "endDate": "2022",
@@ -73,11 +73,11 @@
       "position": "Treasurer of the YLB (Youth Leadership Board)",
       "startDate": "2022",
       "endDate": "Present",
-      "summary": "Oversee the organization's financial affairs",
+      "summary": "Manage budgeting, cash flow, and financial reporting to ensure financial stability and transparency.",
       "highlights": [
-        "Attend and participate in board meetings",
-        "Calculate and document spendings for the organizations records",
-        "Plan and exceute events within budget"
+        "Contribute financial insights and collaborate in decision-making during board meetings.",
+        "Track and record all spending, ensuring accurate and up-to-date financial records.",
+        "Organize events while managing resources to stay within the allocated budget."
       ]
     }
   ],
