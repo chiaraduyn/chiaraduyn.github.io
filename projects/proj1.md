@@ -19,7 +19,7 @@ summary: "An interactive loko i'a (fish pond) video game that integrates sustain
 
 Formula Fish is a interactive 2-player text-based tournament style fishing game where both players will take a turn every month to catch 3 fish over the course of 12 months. Players will have the choice to choose 1 of 5 fishing tools: pole, net, spear, trap, or throw net. There are 4 different fish species: Moiliʻi, Oama, Ohua, Puaʻama that will continue to grow at the end of every month. These fish have certain rules and regulations that will decide if the player is illegally fishing. If the player is caught illegally fishing, then all the fish caught during their turn are confiscated and their turn ends. Players can check the rulebook on fishing regulations during their turn. Players can always choose to release the illegal fish before putting it in their sack to avoid a fishing penalty. Fishing season ends when 12 months have passed and the player with the 3 largest fish (sum of the 3 largest length) wins!
 
-My team was a group of 4 individuals: Ella Self, Martino Koo, Adam Bell, and I. Our game encompasses a number of Java files that form a hierarchy of fish families. The primary file users will interact with is FishDriver. FishDriver contains methods such as 
+My team was a group of 4 individuals: Ella Self, Martino Koo, Adam Bell, and I. I would also like to recognize my advisor for this project, Lisa Miller. Our game encompasses a number of Java files that form a hierarchy of fish families. The primary file users will interact with is FishDriver. FishDriver contains methods such as 
 • Main: gives player options, displays information, and
 counts off the months within the year
 • caught & throwBack: simulates catches and releases
