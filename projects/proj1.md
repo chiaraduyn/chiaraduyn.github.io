@@ -32,4 +32,4 @@ counts off the months within the year
 • Expectation: classes that alerts users of discrepancies or alterations to their fish’s
 • Changeable: classes that allows for variation in qualities of older fish.
 
-You can learn more on page 71 in the [2024 Pueo o Kū Journal of Science, Technology, Engineering, and Mathematics (STEM)]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://drive.google.com/file/d/1EQfDB4KRqd0SOKlOI6y_mTqio0xxLxPc/view)).
+You can learn more on page 71 in the [2024 Pueo o Kū Journal of Science, Technology, Engineering, and Mathematics (STEM)](https://drive.google.com/file/d/1EQfDB4KRqd0SOKlOI6y_mTqio0xxLxPc/view?usp=sharing).
