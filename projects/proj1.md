@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/proj1pic.png
 title: "Formula Fish"
 date: 2024
 published: true
@@ -19,22 +19,19 @@ summary: "An interactive loko i'a (fish pond) video game that integrates sustain
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Formula Fish is a interactive 2-player text-based tournament style fishing game where both players will take a turn every month to catch 3 fish over the course of 12 months. Players will have the choice to choose 1 of 5 fishing tools: pole, net, spear, trap, or throw net. There are 4 different fish species: Moiliʻi, Oama, Ohua, Puaʻama that will continue to grow at the end of every month. These fish have certain rules and regulations that will decide if the player is illegally fishing. If the player is caught illegally fishing, then all the fish caught during their turn are confiscated and their turn ends. Players can check the rulebook on fishing regulations during their turn. Players can always choose to release the illegal fish before putting it in their sack to avoid a fishing penalty. Fishing season ends when 12 months have passed and the player with the 3 largest fish (sum of the 3 largest length) wins!
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+My team was a group of 4 individuals: Ella Self, Martino Koo, Adam Bell, and I. Our game encompasses a number of Java files that form a hierarchy of fish families. The primary file users will interact with is FishDriver. FishDriver contains methods such as 
+• Main: gives player options, displays information, and
+counts off the months within the year
+• caught & throwBack: simulates catches and releases
+• fillPond: adds fish to the pond
+• lawai_a: monitors and modifies players caught’s
+• growFish: allows monthly growth of players fis
+• I_a: basis for interactive elements and information of the respective fish families
+• Fishable: an interface contains methods thats are used within the hierarchy to allow for the game functionality
+• MoiLi_i, Oama, Ohua, Pua_ama: the child classes to each fish family that holds fish’s base information and is an extension of fishableI_a that implements game methods
+• Expectation: classes that alerts users of discrepancies or alterations to their fish’s
+• Changeable: classes that allows for variation in qualities of older fish.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more on page 71 in the [2024 Pueo o Kū Journal of Science, Technology, Engineering, and Mathematics (STEM).]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://drive.google.com/file/d/1EQfDB4KRqd0SOKlOI6y_mTqio0xxLxPc/view)).
