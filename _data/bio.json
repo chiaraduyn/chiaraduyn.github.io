@@ -6,7 +6,7 @@
     "email": "cduyn@hawaii.edu",
     "phone": "",
     "website": "https://chiaraduyn.github.io",
-    "summary": "Hi! My name is Chiara Duyn. I am currently pursuing a Bachelor of Arts in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am anticipated to graduate in the fall of 2025.",
+    "summary": "Hi! My name is Chiara Duyn. I am currently pursuing a Bachelor of Arts in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I anticipate to graduate in the Fall of 2025.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "chiaraduyn", "url": "http://github.com/chiaraduyn" },
@@ -14,15 +14,19 @@
     ]
   },
   "interests": [
-    { "name": "Internet of Things (IoT)" },
+    { "name": "Cybersecurity" },
+    { "name": "Cryptography" },
     { "name": "Human-Computer Interaction" },
-    { "name": "Audio Programming" },
-    { "name": "Cybersecurity" }
+    { "name": "Game Enthusiast" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C/C++", "Java", "R", "Python", "Flask", "React/React Native" ]
+    },
+    {
+      "name": "Database Technologies",
+      "keywords": [ "MySQL", "MongoDB", "Oracle" ]
     },
     {
       "name": "Toolsets/OS",
