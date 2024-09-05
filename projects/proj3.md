@@ -10,7 +10,7 @@ labels:
   - Endpoint Protection
   - Security Metaphors
     
-summary: "A story about Cybersecurity"
+summary: "A cybersecurity metaphor for understanding protection and threat mitigation inspired by a Disney princess."
 ---
 
 <div class="text-center p-4">
