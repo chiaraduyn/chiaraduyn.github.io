@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/proj3pic.png
-title: "Cinderella and her Castle"
+title: "The Princess and her Castle"
 date: 2022
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - Endpoint Protection
   - Security Metaphors
     
-summary: "A cybersecurity metaphor for understanding protection and threat mitigation inspired by a Disney princess."
+summary: " A story where a princess, castle and its defenses serve as a metaphor for cybersecurity, illustrating how protection and threat mitigation work in the digital world."
 ---
 
 <div class="text-center p-4">
@@ -18,14 +18,15 @@ summary: "A cybersecurity metaphor for understanding protection and threat mitig
   
 </div>
 
-For Cybersecurity Awareness Month, I decided to create a story called "Cinderella and Her Castle" to explain cybersecurity concepts. This story is intended for individuals without a background in the field.
+For Cybersecurity Awareness Month, I decided to create a story called "The Princess and Her Castle" to explain cybersecurity concepts. This story is intended for individuals without a background in the field.
 
-Before the story begins, the castle and its functions must be established:
-The Moat: The moat is meant to keep the bad guys from reaching the castle. Think of it as URL filtering or our network perimeter, designed to slow down hackers.
-The Outer Wall: The outer wall, equipped with a firewall and Intrusion Prevention System (IPS), acts like a gate surrounding the castle, providing an additional layer of security. Just as the wall’s gates allow or deny access, firewalls use rules to permit harmless traffic and block unwanted visitors.
-The Knights: The knights guard the castle from threats both inside and outside the walls. Similarly, anti-virus software on a computer prevents attacks from entering or detects and eliminates threats within the device.
-The Royals and Subjects: The royals and subjects represent students, employees, or any individuals. It's crucial for everyone to understand important rules to keep hackers at bay.
-Now, for the story:
+Before the story begins, the castle and its functions must be established.
+The moat is meant to keep the bad guys from reaching the castle. Think of it as URL filtering or our network perimeter, designed to slow down hackers.
+The outer wall, equipped with a firewall and Intrusion Prevention System (IPS), acts like a gate surrounding the castle, providing an additional layer of security. Just as the wall’s gates allow or deny access, firewalls use rules to permit harmless traffic and block unwanted visitors.
+The knights guard the castle from threats both inside and outside the walls. Similarly, anti-virus software on a computer prevents attacks from entering or detects and eliminates threats within the device.
+The royals and subjects represent students, employees, or any individuals. It's crucial for everyone to understand important rules to keep hackers at bay.
+
+*Now, for the story:*
 
 There was once a princess who lived happily in her castle, serving as the head of security (like a CISO). Her castle was the only one in the countryside, where she hid all her treasure. Not only was there treasure, but this was also where the royals, subjects, and members of the castle lived. Security was never her top concern until the bad guys took notice and started taking advantage. They would sneak in through the front door and steal what was inside. The situation worsened when the pandemic hit.
 
