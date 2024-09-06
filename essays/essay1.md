@@ -13,7 +13,7 @@ labels:
   - ES6
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essay1pic.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/essay1pic.jpg">
 
 *TypeScript feels both foreign and familiar, like meeting a distant cousin who shares many traits with someone you know well.*
 
