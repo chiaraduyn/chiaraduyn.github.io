@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/proj3pic.png
+image: img/proj3pic.tiff
 title: "The Princess and her Castle"
 date: 2022
 published: true
