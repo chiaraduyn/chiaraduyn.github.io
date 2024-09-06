@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Chiara Duyn",
+    "name": "Chiara Celestina Duyn",
     "label": "Student",
     "picture": "https://github.com/chiaraduyn.png",
     "email": "cduyn@hawaii.edu",
     "phone": "",
     "website": "https://chiaraduyn.github.io",
-    "summary": "Hi! My name is Chiara Duyn. I am currently pursuing a Bachelor of Arts in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I anticipate to graduate in the Fall of 2025.",
+    "summary": "Hi! I am currently pursuing a Bachelor of Arts in Computer Science within the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I anticipate to graduate in the Fall of 2025.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "chiaraduyn", "url": "http://github.com/chiaraduyn" },
