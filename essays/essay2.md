@@ -25,7 +25,7 @@ labels:
 
   As I continue my studies, I'm drawn to how software engineering can be a canvas for artistic expression. I'm fascinated by the potential to design interactive experiences and user interfaces that are both functional and visually compelling. The idea of creating software that not only solves problems but also delights and engages users is what really puts the cherry on the cake for me. I envision myself developing applications that are intuitive and aesthetically pleasing, merging technical skill with artistic flair.
 
-"Software is a great combination between artistry and engineering." – Bill Gates*
+*"Software is a great combination between artistry and engineering." – Bill Gates*
 
 ## Crafting the Future
 
