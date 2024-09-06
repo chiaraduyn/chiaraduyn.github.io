@@ -17,7 +17,7 @@ labels:
 
 *TypeScript feels both foreign and familiar, like meeting a distant cousin who shares many traits with someone you know well.*
 
-  As a newcomer to TypeScript, I’m intrigued by how closely it resembles JavaScript—almost as if they are siblings or perhaps just very close cousins. In this learning journey, I've encountered “WOD’s” or Workouts of the DAy, which are a key part of the Athletic Software Engineering approach. Just like a workout, WOD’s push limits and challenge us to solve problems efficiently and correctly under time constraints. 
+  As a newcomer to TypeScript, I’m intrigued by how closely it resembles JavaScript—almost as if they are siblings or perhaps just very close cousins. In this learning journey, I've encountered “WOD’s” or Workouts of the Day, which are a key part of the Athletic Software Engineering approach. Just like a workout, WOD’s push limits and challenge us to solve problems efficiently and correctly under time constraints. 
 
 ## Bridging the Gap: TypeScript vs. JavaScript
 
