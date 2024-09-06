@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "From Curiosity to Connection in the World of Software Engineering"
+title: "From Curiosity to Connection"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/essay2pic.png">
 
-
+## Navigating the Labyrinth
 
   When I first encountered software engineering, it felt like stepping into a labyrinth of complexity and code. The seemingly endless lines of programming languages and intricate systems were very intimidating. But as I ventured deeper, a world of possibility began to unfold, revealing how this field could intertwine with my passions and creative pursuits.
 
