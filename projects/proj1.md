@@ -14,7 +14,7 @@ summary: "An interactive loko i'a (fish pond) video game that integrates sustain
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/inheritance.png" class="img-thumbnail" >
+  <img width="600px" src="../img/inheritance.png" class="img-thumbnail" >
 </div>
 
 Formula Fish is a interactive 2-player text-based tournament style fishing game where both players will take a turn every month to catch 3 fish over the course of 12 months. Players will have the choice to choose 1 of 5 fishing tools: pole, net, spear, trap, or throw net. There are 4 different fish species: Moiliʻi, Oama, Ohua, Puaʻama that will continue to grow at the end of every month. These fish have certain rules and regulations that will decide if the player is illegally fishing. If the player is caught illegally fishing, then all the fish caught during their turn are confiscated and their turn ends. Players can check the rulebook on fishing regulations during their turn. Players can always choose to release the illegal fish before putting it in their sack to avoid a fishing penalty. Fishing season ends when 12 months have passed and the player with the 3 largest fish (sum of the 3 largest length) wins!
