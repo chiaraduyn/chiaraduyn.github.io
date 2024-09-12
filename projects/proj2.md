@@ -16,7 +16,7 @@ summary: "Implementing the SHA-1 hashing algorithm from scratch."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/sha1.png" class="img-thumbnail" >
+  <img width="300px" src="../img/sha1.png" class="img-thumbnail" >
   
 </div>
 
@@ -26,7 +26,11 @@ It is a requirement when using the Digital Signature Algorithm (DSA), as defined
 
 SHA-1 can be used with DSA in scenarios such as email, electronic funds transfer, software distribution, data storage, and other areas where data integrity and authentication are critical. It is also suitable for generating a compact representation of a message whenever needed. 
 
-For my specific implementation of the SHA-1 hashing algorithm, I utilized three files named a.txt, abc.txt, and alpha.txt, each containing distinct strings. My task involved converting the contents of these files into various formats: hexadecimal, binary, and individual bits. I converted the raw string data into hexadecimal format for a more readable and compact representation, binary format to understand the underlying bit structure, and individual bits for a granular view of the data. Each file provided a different message digest, illustrating how SHA-1 can be used to handle various data types and ensure their integrity.
+For my specific implementation of the SHA-1 hashing algorithm, I utilized three files named a.txt, abc.txt, and alpha.txt, each containing distinct strings. My task involved converting the contents of these files into various formats: hexadecimal, binary, and individual bits. I converted the raw string data into hexadecimal format for a more readable and compact representation, binary format to understand the underlying bit structure, and individual bits for a granular view of the data. Each file provided a different message digest, illustrating how SHA-1 can be used to handle various data types and ensure their integrity. Here is a snippet of my code.
+<div class="text-center p-4">
+  <img width="600px" src="../img/examplecodep2.png" class="img-thumbnail" >
+  
+</div>
 
 
 
