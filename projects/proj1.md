@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/proj1pic1.png
+image: img/proj1pic1.heic
 title: "Formula Fish"
 date: 2024
 published: true
