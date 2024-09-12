@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/proj2pic2.png
+image: img/proj2pic2.JPEG
 title: "Secure Hash Standard"
 date: 2023
 published: true
