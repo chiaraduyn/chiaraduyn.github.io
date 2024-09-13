@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-
+<img width="500px" class="rounded float-start pe-4" src="../img/essay3pic.png">
   Practicing good communication is important for software engineers especially when in need of help or answers. In Eric Raymond’s essay “How to Ask Questions the Smart Way” he provides plenty of valuable advice when creating questions that will get you a useful response. In this essay, I will be examining two questions from StackOverflow, one example will represent the “smart way” to ask a question and the other will represent the “not so smart way”. By doing this, I will hopefully have a better understanding on how to ask the right questions when needing any computer programming help in the future. 
 
 
