@@ -17,16 +17,16 @@
     { "name": "Cybersecurity" },
     { "name": "Cryptography" },
     { "name": "Human-Computer Interaction" },
-    { "name": "Game Enthusiast" }
+    { "name": "Video Games" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C/C++", "Java", "R", "Python", "Flask", "React/React Native" ]
+      "keywords": [ "C/C++", "Java", "R", "Python" ]
     },
     {
       "name": "Database Technologies",
-      "keywords": [ "MySQL", "MongoDB", "Oracle" ]
+      "keywords": [ "MySQL", "MongoDB" ]
     },
     {
       "name": "Toolsets/OS",
