@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/essay4.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/essay4pic.jpg">
 
 
 OLearning to code is like learning a new language that helps us understand and use technology better. Now most people can learn and write code, but does it work well? Is it easy to understand and keep updated? This is where coding standards fall into place. They are more than just a set of rules; they are a valuable learning tool that helps developers deepen their understanding of a programming language.
