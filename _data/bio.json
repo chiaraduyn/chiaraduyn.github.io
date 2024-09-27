@@ -30,7 +30,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows 10/11", "Git", "Linux", "VS Code", "jGRASP", ]
+      "keywords": [ "MacOS", "Windows 10/11", "Git", "Linux", "VS Code", "jGRASP" ]
     }
   ],
   "education": [
