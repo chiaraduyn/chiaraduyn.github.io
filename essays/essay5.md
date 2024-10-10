@@ -10,12 +10,12 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/images.png">
+<img width="340px" class="rounded float-start pe-4" src="../img/images.png">
 
 ## What is Bootstrap 5?
 
 Bootstrap 5 is a tool that can help you build websites efficiently in HTML and CSS (JavaScript included,  but currently working exclusively with HTML and CSS). A lot of the code is prewritten for you, such as buttons, navigation bars, and layouts. This saves a lot of time since you don't need to take the time to create all the styling yourself. Bootstrap has been a useful tool for me, especially when doing timed coding exercises in class (Workout of the Day, read more about this under “Essays”).
-The Bootstrap 5 framework can be intimidating for beginners, especially if you don't know how to use it. When I first started using Bootstrap 5 in Visual Studio Code I often found myself asking, "Why bother with this?" With raw HTML and CSS, I felt like I had a clearer understanding of what was happening. Yet UI frameworks like Bootstrap 5 are worth the effort despite the initial learning curve and frustration. 
+The Bootstrap 5 framework can be intimidating for beginners, especially if you don't know how to use it. When I first started using Bootstrap 5 in Visual Studio Code I often found myself asking, "Why should i even use Bootstrap?". With raw HTML and CSS, I felt like I had a clearer understanding of what was happening. Yet UI frameworks like Bootstrap 5 are worth the effort despite the initial learning curve and frustration. 
 
 ## Conquering Complexity 
 
