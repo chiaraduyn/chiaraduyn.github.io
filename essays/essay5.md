@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/images.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/images.png">
 
 What is Bootstrap 5?
  	Bootstrap 5 is a tool that can help you build websites efficiently in HTML and CSS (JavaScript included,  but currently working exclusively with HTML and CSS). A lot of the code is prewritten for you, such as buttons, navigation bars, and layouts. This saves a lot of time since you don't need to take the time to create all the styling yourself. Bootstrap has been a useful tool for me, especially when doing timed coding exercises in class (Workout of the Day, read more about this under “Essays”).
