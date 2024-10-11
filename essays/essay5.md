@@ -22,6 +22,8 @@ The Bootstrap 5 framework can be intimidating for beginners (which I was), espec
 At first, using Bootstrap can be challenging to learn at first since it introduces a new list of classes and utilities that were foregin to me. The setup process involves linking your Bootstrap CSS files to an HTML file. From here, you can learn some of the principles of responsive design and start to become familiar with all the options they have for pre-built components. 
 When using Bootstrap there is a trade-off, which is a slower time complexity. But by giving up raw HTML and CSS, I gained powerful tools for building more modern and responsive websites so in the long run it's worth it since it saves me time otherwise.
 
+## Why Use B
+
 ## Leaving Raw HTML and CSS Behind
 
 Before using Bootstrap I was capable of crafting simple layouts and styling pages to meet basic needs using HTML and CSS. As soon as I had projects that became more intricate, the challenge of managing layout details, for example making sure they looked good on various devices like phones or tablets. To solve these issues, Bootstrap provides a collection of ready-to-use components, a powerful grid system, and helpful utilities that make common tasks a breeze. 
