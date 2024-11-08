@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/recycle.png">
 
-*By Chiara Duyn, Aaron Huang, Justin Kugiyama*
+*By Chiara Duyn, Arron Huang, Justin Kugiyama*
 
 ## The problem
 
