@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/proj3pic.tiff
-title: "The Princess and her Castle"
+title: "Cybersecurity Awareness Month"
 date: 2022
 published: true
 labels:
