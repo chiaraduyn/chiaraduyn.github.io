@@ -3,15 +3,14 @@ layout: essay
 type: essay
 title: "Digital Lego"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2024-12-05
+published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Design Patterns
+  - Next.js
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/designpatterns.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/designpatterns.png">
 
 
 
