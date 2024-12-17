@@ -4,7 +4,7 @@ type: project
 image: img/proj3pic.tiff
 title: "Cybersecurity Awareness Month"
 date: 2022
-published: true
+published: false
 labels:
   - Cybersecurity Awarness
   - Endpoint Protection
