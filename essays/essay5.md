@@ -4,7 +4,7 @@ type: essay
 title: "Giving Bootstrap 5 a Try"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
-published: true
+published: false
 labels:
   - UI Design
   - Bootstrap 5
