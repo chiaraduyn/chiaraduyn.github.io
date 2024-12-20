@@ -27,7 +27,7 @@ When collaborating with others, I think that coding standards are very important
 
 Recently, I've been using a tool called ESLint with a code editor called Visual Studio Code, and it's been a game-changer. ESLint is a linter, which is a tool that checks your code for errors and enforces coding standards. There is also real-time feedback as you're coding, letting you know if you have any potential issues like syntax errors, poor practices, or even something as simple as incorrect indentation. It's like having a personal grammar checker for my code plus more! This has improved my coding style by avoiding common mistakes and adopting more efficient patterns. I've also learned new things about the programming language I'm using currently, TypeScript.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/standards2.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/standards2.png">
 
 ## From Overload to Opportunity
 
