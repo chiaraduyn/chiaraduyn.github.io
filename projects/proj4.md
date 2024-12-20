@@ -13,7 +13,10 @@ labels:
     
 summary: "Making cooking simple, affordable, and fun for students by sharing recipes that can be made with minimal eqipment and easily sourced ingredients."
 ---
-
+<div class="text-center p-4">
+  <img width="200px" src="../img/landingpage.jpg" >
+  
+</div>
 The goal of this site is to help improve the nutritional content and variety of foods eaten by students and help them limit the use of vending machines or fast food products by providing tasty, realistic alternatives.
 
 There are three roles in this system: students, vendors, and admins.
