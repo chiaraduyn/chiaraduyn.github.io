@@ -25,13 +25,11 @@ When collaborating with others, I think that coding standards are very important
 
 ## My Secret Weapon
 
-Recently, I've been using a tool called ESLint with a code editor called Visual Studio Code, and it's been a game-changer. ESLint is a linter, which is a tool that checks your code for errors and enforces coding standards. There is also real-time feedback as you're coding, letting you know if you have any potential issues like syntax errors, poor practices, or even something as simple as incorrect indentation. It's like having a personal grammar checker for my code plus more! This has improved my coding style by avoiding common mistakes and adopting more efficient patterns. I've also learned new things about the programming language I'm using currently, TypeScript.
 <img width="300px" class="rounded float-start pe-4" src="../img/standards2.png">
 
+Recently, I've been using a tool called ESLint with a code editor called Visual Studio Code, and it's been a game-changer. ESLint is a linter, which is a tool that checks your code for errors and enforces coding standards. There is also real-time feedback as you're coding, letting you know if you have any potential issues like syntax errors, poor practices, or even something as simple as incorrect indentation. It's like having a personal grammar checker for my code plus more! This has improved my coding style by avoiding common mistakes and adopting more efficient patterns. I've also learned new things about the programming language I'm using currently, TypeScript.
 
 
-
-                                                                                                                                                                                     
 ## From Overload to Opportunity
 
 At first, I found myself a bit overwhelmed with the number of errors that popped up when running ESLint, especially since my previous projects didn't have strict coding standards. I have used something called Checkstyle that checks for errors in JGrasp which uses Java. This reminded me a lot of ESLint. Soon after, I realized that most of these errors were easy to fix. What seemed daunting at first became an excellent learning experience. I now rely on ESLint to not only catch issues in my code but to guide me into writing better code from the start, not just fixing errors as they happen.
