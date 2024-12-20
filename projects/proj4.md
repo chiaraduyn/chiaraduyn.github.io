@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/landingpage.jpg
-title: "Cybersecurity Awareness Month"
+image: img/rice-cooker.png
+title: "Rice Cooker Recipes"
 date: 2024
-published: false
+published: true
 labels:
   - App Creation
   - TypeScript
@@ -14,27 +14,26 @@ labels:
 summary: "Making cooking simple, affordable, and fun for students by sharing recipes that can be made with minimal eqipment and easily sourced ingredients."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/castle.png" >
-  
-</div>
+The goal of this site is to help improve the nutritional content and variety of foods eaten by students and help them limit the use of vending machines or fast food products by providing tasty, realistic alternatives.
 
-For Cybersecurity Awareness Month, I decided to create a story called "The Princess and Her Castle" to explain cybersecurity concepts. This story is intended for individuals without a background in the field.
+There are three roles in this system: students, vendors, and admins.
 
-Before the story begins, the castle and its functions must be established.
-The moat is meant to keep the bad guys from reaching the castle. Think of it as URL filtering or our network perimeter, designed to slow down hackers.
-The outer wall, equipped with a firewall and Intrusion Prevention System (IPS), acts like a gate surrounding the castle, providing an additional layer of security. Just as the wall’s gates allow or deny access, firewalls use rules to permit harmless traffic and block unwanted visitors.
-The knights guard the castle from threats both inside and outside the walls. Similarly, anti-virus software on a computer prevents attacks from entering or detects and eliminates threats within the device.
-The royals and subjects represent students, employees, or any individuals. It's crucial for everyone to understand important rules to keep hackers at bay.
+Students can both search for and contribute recipes. Recipes not only include the typical description of how to prepare the food and a picture of the completed food, but also information on where to obtain each ingredient and how much each ingredient costs. The recipe also indicates typical dietary restrictions for students (vegan, gluten-free, etc.)
 
-*Now, for the story:*
+Information on ingredient price and availability can be contributed either by vendors or by students.
 
-There was once a princess who lived happily in her castle, serving as the head of security (like a CISO). Her castle was the only one in the countryside, where she hid all her treasure. Not only was there treasure, but this was also where the royals, subjects, and members of the castle lived. Security was never her top concern until the bad guys took notice and started taking advantage. They would sneak in through the front door and steal what was inside. The situation worsened when the pandemic hit.
+There is also an admin role. Admins can edit all content in the system, remove inappropriate content, and establish users as having the vendor role.
 
-With the pandemic in full effect, all members of the castle dispersed to prevent the virus from spreading. This represents how everyone started working remotely. The princess could no longer oversee everyone at home, so she decided to build a watchtower for her head knight to report back to her on what he saw (similar to Azure Sentinel SIEM). Now, the princess could prevent bad guys from stealing treasure or attacking people at home.
 
-In present day, the members of the castle working from home are being attacked by bad guys (like individuals receiving cyberattacks due to increased attack surfaces). The head knight notices this, reports it to the princess, and sends out other knights to protect the homes of castle members (akin to Microsoft Defender providing endpoint protection).
 
-Realizing that keeping all the treasure in one castle is risky, the princess decides to spread her treasure across multiple castles around the countryside (analogous to spreading data across multiple cloud vendors rather than relying solely on an on-premise network perimeter). Though no castle, treasure, or person is 100% safe from unfortunate events, the princess hopes to mitigate risks by performing weekly searches (threat hunting) and maintaining good communication with all members of the castle. Unfortunately, this takes a toll on her sleep, but she wouldn't have it any other way.
+## Overview
+Rice Cooker Recipes creates a way for students (on-campus or off) to learn and share recipes that:
 
-The End!
+* Can be made using minimal kitchen facilities (at a minimum, a rice cooker).
+* Can be made out of ingredients that are available within walking distance of UH. Suit local taste sensibilities.
+* Can be filtered via dietary restrictions (gluten-free, vegan, etc) and maybe by rating/cost of meal.
+* Have an estimated cost per serving.
+* Has an estimated number of servings per recipe.
+* Has an estimate of how long it takes to make.
+
+Check out our website [here!](https://rice-cooker.vercel.app/)   
