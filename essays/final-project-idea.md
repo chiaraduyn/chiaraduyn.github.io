@@ -4,7 +4,7 @@ type: essay
 title: "Rainbow Recycle"
 # All dates must be YYYY-MM-DD format!
 date: 2024-11-05
-published: true
+published: false
 labels:
   - Software Engineering 
   - Nextjs
