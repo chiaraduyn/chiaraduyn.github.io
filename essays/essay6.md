@@ -4,7 +4,7 @@ type: essay
 title: "Digital Lego"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-05
-published: true
+published: false
 labels:
   - Design Patterns
   - Next.js
