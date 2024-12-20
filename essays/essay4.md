@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/standards.png">
+<img width="220px" class="rounded float-start pe-4" src="../img/standards.png">
 
 Learning to code is like learning a new language that helps us understand and use technology better. Now most people can learn and write code, but does it work well? Is it easy to understand and keep updated? This is where coding standards fall into place. They are more than just a set of rules; they are a valuable learning tool that helps developers deepen their understanding of a programming language.
 
@@ -26,6 +26,8 @@ When collaborating with others, I think that coding standards are very important
 ## My Secret Weapon
 
 Recently, I've been using a tool called ESLint with a code editor called Visual Studio Code, and it's been a game-changer. ESLint is a linter, which is a tool that checks your code for errors and enforces coding standards. There is also real-time feedback as you're coding, letting you know if you have any potential issues like syntax errors, poor practices, or even something as simple as incorrect indentation. It's like having a personal grammar checker for my code plus more! This has improved my coding style by avoiding common mistakes and adopting more efficient patterns. I've also learned new things about the programming language I'm using currently, TypeScript.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/standards2.png">
 
 ## From Overload to Opportunity
 
