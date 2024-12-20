@@ -12,7 +12,7 @@ labels:
 ---
 
 
-<img width="340px" class="rounded float-start pe-4" src="../img/me.jpg">
+<img width="280px" class="rounded float-start pe-4" src="../img/me.jpg">
 
 I remember when I first started college (2017), ChatGPT did not exist. Looking back, I was solely reliant on my own intelligence, information learned in class, and online resources. Today artificial Intelligence is changing how we learn in school, specifically in fields like software engineering which I've been taking classes on. In ICS 314 ( a class I took in the Fall of 2024) I used tools like ChatGPT, GitHub Copilot, and Claude AI because they are resources that can help students like me learn and solve programming problems. These technologies have since offered new ways to understand complicated software engineering concepts and complete assignments in a swift amount of time.
 
